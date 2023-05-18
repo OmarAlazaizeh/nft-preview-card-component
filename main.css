@@ -90,3 +90,9 @@ p {
   color: var(--cyan);
   text-decoration: none;
 }
+
+@media (max-width: 767px) {
+  .attribution {
+    display: none;
+  }
+}
