@@ -88,4 +88,5 @@ p {
 }
 .attribution a {
   color: var(--cyan);
+  text-decoration: none;
 }
